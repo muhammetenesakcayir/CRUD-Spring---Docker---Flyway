@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/enoca
+    username: username
+    password: password
+    driver-class-name: org.postgresql.Driver
+  messages:
+    basename: messages/message
+  flyway:
+    enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: validate
