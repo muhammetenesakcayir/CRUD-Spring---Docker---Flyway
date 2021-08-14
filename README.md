@@ -11,6 +11,7 @@ This project providers fundamental product operations.
 - [Run](https://github.com/muhammetenesakcayir/case#run)
 - [Database Tables](https://github.com/muhammetenesakcayir/case#database-tables)
 - [Endpoints](https://github.com/muhammetenesakcayir/case#endpoints)
+- [Postman](https://github.com/muhammetenesakcayir/case#postman)
 - [Flyway](https://github.com/muhammetenesakcayir/case#flyway)
 
 ### Run
@@ -122,7 +123,13 @@ Then, you can run command as following;
         }
     ]
 }
-   
+
+#### Postman
+
+You can use this postman collection to simulate http requests and responses
+
+[enoca.postman_collection.zip](https://github.com/muhammetenesakcayir/case/files/6986324/enoca.postman_collection.zip)
+
 
 #### Flyway
 
